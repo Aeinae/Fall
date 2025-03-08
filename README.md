@@ -6,4 +6,4 @@ Fall is an action-adventure platformer (game) coded entirely in Python (in perha
     and some inputs may not be registered properly.
 Regardless, the game is functional, and playable.
 
-    ~ A game by Aeinae (Adarsh Prakash), conceptualized by InversedQ.
+    ~ A game by Aeinae (Nexys), conceptualized by InversedQ.
